@@ -1,0 +1,68 @@
+header{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align:center;
+  }
+  body{
+     background-color:#eee;
+  }
+  #img-div{
+    width:80%;
+    margin-left:auto;
+    margin-right:auto;
+    display:flex;
+    justify-content:center;
+  }
+  #image{
+  
+    text-align:center;
+    display:block;
+    width:80%;
+    height:auto;
+    margin-left:auto;
+    margin-right:auto;
+    max-width:100%;
+    max-height:500px;
+    min-width:300px;
+    min-height:200px;
+  }
+  #img-caption{
+    text-align:left;
+    font-weight:600;
+  }
+  #description{
+    font-weight:bold;
+  }
+  #tribute-info{
+    margin-top:30px;
+    width:50%;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:justify;
+  }
+  #tribute-link{
+    margin-top:15px;
+    font-size:150%;
+    text-decoration:none;
+    color: rgb(39, 39, 134);
+
+    font-weight:800;
+  }
+  .left{
+    text-align:left;
+  }
+  .bold{
+    font-weight:600;
+    text-decoration:underline;
+  }
+  .right{
+    font-weight:100;
+  }
+  footer{
+    text-align: center;
+  }
+  #tribute-link:hover{
+    font-weight: 900;
+    text-decoration:underline;
+    color:rgb(120, 100, 0)
+  }
+  
